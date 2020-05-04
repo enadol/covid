@@ -1,2 +1,2 @@
 # covid
-COVID-19 daily growth rate data, as json
+Assorted COVID-19 data in different formats
