@@ -1,0 +1,2 @@
+Fataler Fehler: kann Datei 'load(C:\Users\enado\Documents\covid\.RData)' nicht öffnen: Invalid argument
+

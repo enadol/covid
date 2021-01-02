@@ -1,0 +1,1 @@
+"C:\Program Files\R\R-4.0.3\bin\R.exe" C:\Users\enado\Documents\covid\complete.R
